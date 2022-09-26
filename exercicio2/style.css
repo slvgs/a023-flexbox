@@ -6,4 +6,8 @@
 main{
   padding-top: 20px;
   display: flex;
+  justify-content: space-evenly ;
+  flex-wrap: wrap;
+  gap: 2rem;
+  
 }
